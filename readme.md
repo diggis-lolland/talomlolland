@@ -7,8 +7,6 @@ DEMO
 --------------------
 ![Demo](demo.gif)
 
-https://github.com/diggis-lolland/talomlolland/raw/main/demo.gif
-
 
 DEPRECATION
 --------------------

@@ -3,6 +3,11 @@ MODULE TALOMLOLLAND
 --------------------
 Visning af diverse tal om Lolland. Demografi, boligmasse, antal sommerhuse, flytte data
 
+DEMO
+--------------------
+[![Demo video](https://img.youtube.com/vi/VIDEOID/0.jpg)](https://github.com/diggis-lolland/talomlolland/raw/main/demo.mp4)
+
+
 DEPRECATION
 --------------------
 Deprecates: none         

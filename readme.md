@@ -5,6 +5,8 @@ Visning af diverse tal om Lolland. Demografi, boligmasse, antal sommerhuse, flyt
 
 DEMO
 --------------------
+![Demo](demo.gif)
+
 https://github.com/diggis-lolland/talomlolland/raw/main/demo.gif
 
 
